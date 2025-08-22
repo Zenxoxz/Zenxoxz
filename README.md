@@ -48,7 +48,4 @@
 
 ---
 
-## 🔗 Links
-
-* GitHub: [https://github.com/Zenxoxz](https://github.com/Zenxoxz)
 * Discord: Coming soon!
