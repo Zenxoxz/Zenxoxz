@@ -15,7 +15,7 @@
 * :technologist: Mainly a **Python developer**
 * 🏗️ Building **Tools** and **Web Apps**
 * :dart: Goal: Improve in backend frameworks and learn database fundamentals
-* :telescope: Currently learning more about **Node.js** and **JavaScript**
+* :telescope: Currently learning more about **Node.js**, **JavaScript**, and learning **Entrepreneurship**
 
 ---
 
