@@ -13,7 +13,7 @@
 ## About Me
 
 * :technologist: Mainly a **Python developer**
-* 🏗️ Building **Discord bots** and tools
+* 🏗️ Building **Tools** and **Web Apps**
 * :dart: Goal: Improve in backend frameworks and learn database fundamentals
 * :telescope: Currently learning more about **Node.js** and **JavaScript**
 
